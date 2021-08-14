@@ -1,6 +1,7 @@
 import os
 import telebot
-#import text2emotion as te
+# import text2emotion as te
+# hi
 import random
 import numpy
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton , ReplyKeyboardMarkup, Update
